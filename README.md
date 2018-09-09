@@ -1,0 +1,2 @@
+# Grid
+Self resolving maze
